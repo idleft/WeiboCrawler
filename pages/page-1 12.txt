@@ -1,0 +1,108 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-Frame-Options" content="DENY ">
+<meta content="IE=8" http-equiv="X-UA-Compatible">
+<title>分手的相关微博 - 新浪微博</title>
+<noscript>
+<meta http-equiv="refresh" content="0;url=/home?nojs=1">
+</noscript>
+<script type="text/javascript">
+(function(){var l=location;var r=new RegExp('^(?:([A-Za-z]{1,5}):(\\/{2,3}))?('+l.hostname.replace(/\./g,'\\.')+')?(?::(\\d+))?(?:\\/([^?#]*))?(?:\\?([^#]*))?(?:#(.*))?$');var s;((s=(l=l.toString()).indexOf('#!')) != -1 && r.test(l=l.substr(s+2))) ? location.replace(l) : 0;})(); 
+</script>
+<link href="http://img.t.sinajs.cn/t4/style/css/module/global/out_frame.css?version=201305101650" type="text/css" rel="stylesheet" charset="utf-8" />
+<link href="http://img.t.sinajs.cn/t4/appstyle/searchV45/css/module/common.css?version=201305101650" type="text/css" rel="stylesheet" charset="utf-8" />
+<link href="http://img.t.sinajs.cn/t4/appstyle/searchV45/css/patch/weibo.css?version=201305101650" type="text/css" rel="stylesheet" charset="utf-8" />
+<script type="text/javascript">
+ var $CONFIG = {};
+  $CONFIG['islogin'] = '0';
+ $CONFIG['uid'] = '0';
+ $CONFIG['entry'] = 'weisousuo';
+  $CONFIG['setCover'] = 1; //ie6hack
+ $CONFIG['version'] = '201305101650';
+ $CONFIG['bigpipe'] = 'true';
+ $CONFIG['timeDiff'] = (new Date() - 1368539059000);
+ $CONFIG['product'] = 'search';
+ $CONFIG['pageid'] = 'weibo';
+ $CONFIG['skin'] = '';
+ $CONFIG['lang'] = 'zh-cn';
+ $CONFIG['jsPath'] = 'http://js.t.sinajs.cn/t4/';
+ $CONFIG['cssPath'] = 'http://img.t.sinajs.cn/t4/';
+ $CONFIG['imgPath'] = 'http://img.t.sinajs.cn/t4/';
+ $CONFIG['servertime'] = 1368539059;
+  $CONFIG['bpType'] = 'main';
+  $CONFIG['$webim'] = 0;
+ $CONFIG['mJsPath'] = ['http://js{n}.t.sinajs.cn/t4/', 1, 2];
+ $CONFIG['mCssPath'] = ['http://img{n}.t.sinajs.cn/t4/', 1, 2];
+ $CONFIG['s_domain'] = 'http://s.weibo.com';
+  $CONFIG['s_live'] = 0;
+ $CONFIG['s_search'] = '%25E5%2588%2586%25E6%2589%258B';
+ $CONFIG['s_ori_search'] = '分手';
+ </script></head>
+<body class="S_weibo">
+<div class="S_wrap">
+<!-- toptray -->
+<div id="weibo_top_public" class="tsina_gnbarea"></div>
+<script src='http://js.t.sinajs.cn/t4/home/js/public/topInit.js?version=201305101650'></script>
+<script type="text/javascript">
+WBtopGlobal && WBtopGlobal.init({
+  name: "",
+  uid: "",
+  any: "&wvr=5",
+  islogin: 0,
+  icon: "",
+  lang: "zh-cn",
+  verified: "",
+  verify: "",
+  page: "search",
+  _wv: "5" 
+});
+</script>
+<!-- toptray end --><div class="S_main">
+ <div class="S_main_bg">
+  <div class="search_head clearfix" id="pl_common_searchTop"></div>
+  <div class="S_plwrap" id="pl_common_unLogin">
+ <div class="S_plc" id="plc_main"></div>
+  </div>
+ </div>
+</div>
+<!-- 砸金蛋 -->
+<div id="pl_weibo_goldEgg"></div>
+<!-- /砸金蛋 -->
+ <div class="search_footer W_textb">
+  <div class="global_footer">
+ <div class="other_link clearfix">
+  <div class="help_link">
+   <p><a class="ico_service" href="http://help.weibo.com/?refer=didao" target="_blank">微博帮助</a>&#12288;<a href="http://weibo.com/zt/s?k=9286" target="_blank">意见反馈</a>&#12288;<a href="http://open.weibo.com/" target="_blank">开放平台</a>&#12288;<a href="http://hr.weibo.com" target="_blank">微博招聘</a>&#12288;<a href="http://news.sina.com.cn/guide/" target="_blank">新浪网导航</a></p>
+   <p>北京微梦创科网络技术有限公司&emsp;<a href="http://weibo.com/aj/static/jww.html" target="_blank">京网文[2011]0398-130号</a>&emsp;<a href="http://www.miibeian.gov.cn" target="_blank">京ICP证100780号</a></p>
+  </div>
+  <div class="copy">
+    <p>Copyright &copy; 1996-2013 SINA</p>
+  </div>
+ </div>
+  </div>
+ </div>
+  	<!-- <div class="S_gotop" id="base_scrollToTop" style="visibility: hidden;"><a class="W_gotop" href="javascript:void(0);"><span><em class="sj">♦</em><em class="fk">▐</em>返回顶部</span></a></div> -->
+	  <!-- 返回，分享 -->
+	 <div class="right_btn" id="base_scrollToTop">
+	  <ul class="btn_list">
+	 <li node-type="scrollToTop" style="display:;"><a href="javascript:void(0);" class="bottom_btn" title=返回顶部 suda-data="key=tblog_search_v4.1&value=weibo_feed_back"><span><em class="btn_icon"><i class="search_icon icon_top"></i></em><em class="btn_txt">顶部</em></span></a></li>
+	 <li><a href="http://e.weibo.com/wbsearch?Refer=STopic_feedback" title=提交使用反馈 target="_blank" class="bottom_btn" suda-data="key=tblog_search_v4.1&value=weibo_feed_feedback"><span><em class="btn_icon"><i class="search_icon icon_feedback"></i></em><em class="btn_txt">反馈</em></span></a></li>
+	 	  </ul>
+	 </div>
+	 <!-- /返回，分享 --> 
+ 
+<div style="display:none;" id="pl_common_base"></div>
+</body>
+<script src="http://js.t.sinajs.cn/t4/apps/search/js/base.js?version=201305101650" type="text/javascript" ></script>
+<!-- SUDA_CODE_START -->
+<noscript><img width="0" height="0" src="http://beacon.sina.com.cn/a.gif?noScript" border="0" alt="" /></noscript>
+<!-- SUDA_CODE_END -->
+
+<script>STK && STK.pageletM && STK.pageletM.view({"pid":"pl_common_searchTop","js":["apps\/search\/js\/pl\/common\/searchTop.js?version=201305101650"],"css":[],"html":"<a href=\"\/?Refer=STopic_icon\" class=\"logo_img\"><div class=\"search_logo\" node-type=\"logo\"><\/div><\/a>\n<div class=\"search_head_formbox\">\n <ul class=\"formbox_tab clearfix\" node-type=\"searchItems\">\n\t<li><a action-type=\"searchItem\" href=\"javascript:void(0);\" class=\"cur\" >\u5fae\u535a<\/a><a action-type=\"searchItem\" href=\"\/user\/%25E5%2588%2586%25E6%2589%258B&Refer=weibo_user\" suda-data=\"key=tblog_search_v4.1&value=weibo_nologin_trans\">\u627e\u4eba<\/a><a action-type=\"searchItem\" href=\"javascript:void(0);\" class=\"head_unlog\" >\u56fe\u7247<\/a><\/li><li class=\"hidden_li li_show head_unlog\" node-type=\"moreItems\"><a action-type=\"searchItem\" href=\"javascript:void(0);\" >\u5fae\u7fa4<\/a><a action-type=\"searchItem\" href=\"javascript:void(0);\" >\u6d3b\u52a8<\/a><a action-type=\"searchItem\" href=\"javascript:void(0);\" >\u5e94\u7528<\/a><\/li> <\/ul>\n <!-- search_input -->\n <div class=\"search_input\">\n  <div class=\"search_input_wrap\">\n <div class=\"searchBtn_box\"><a href=\"\/weibo\/%25E5%2588%2586%25E6%2589%258B&xsort=time&Refer=STopic_box\" class=\"searchBtn\" node-type=\"submit\" suda-data=\"key=tblog_search_v4.1&value=nologin_search\">\u641c\u7d22<\/a><\/div>\n <div class=\"searchInp_box\">\n  <div class=\"searchInp_auto\">\n   <input class=\"searchInp_form\" type=\"text\" value=\"\u5206\u624b\" node-type=\"text\" maxlength=\"40\">\n  <\/div>\n <\/div>\n  <\/div>\n <\/div>\n <!-- \/search_input --> \n<\/div>\n<div class=\"search_head_action\">\n<p class=\"action_txt\"><a href=\"\/?Refer=STopic_index\" suda-data=\"key=tblog_search_v4.1&value=return_index\">\u641c\u7d22\u9996\u9875<\/a>\n<\/p>\n<\/div>\n"})</script>
+<script>STK && STK.pageletM && STK.pageletM.view({"pid":"pl_weibo_goldEgg","js":["apps\/search\/js\/pl\/weibo\/goldEgg.js?version=201305101650"],"css":[],"html":""})</script>
+<script>STK && STK.pageletM && STK.pageletM.view({"pid":"plc_main","js":["apps\/search\/js\/pl\/common\/unLogin.js?version=201305101650","apps\/search\/js\/pl\/common\/loginBox.js?version=201305101650"],"css":[],"html":"  <div class=\"S_content clearfix\">\n  <div class=\"S_content_l\">\n <div id=\"pl_common_sassfilter\"><\/div>\n  <\/div>\n  <div class=\"S_content_r\">\n  <\/div>\n <\/div>\n "})</script>
+<script>STK && STK.pageletM && STK.pageletM.view({"pid":"pl_common_sassfilter","js":["apps\/search\/js\/pl\/common\/sassfilter.js?version=201305101650"],"css":[],"html":"<div class=\"code_box clearfix\">\n <div class=\"code_ver\">\n  <p class=\"code_tit\">\u4f60\u7684\u884c\u4e3a\u6709\u4e9b\u5f02\u5e38\uff0c\u8bf7\u8f93\u5165\u9a8c\u8bc1\u7801\uff1a<\/p>\n  <div class=\"code_wrap\">\n <div class=\"form_table veri_code clearfix\">\n  <span class=\"code_input\"><input type=\"text\" class=\"W_inputStp\" node-type=\"yzm_input\"><\/span> \n  <span class=\"code_img\"><img src=\"\/ajax\/pincode\/pin?type=sass&ts=1368539059\" node-type=\"yzm_img\"><\/span>\n  <a class=\"code_change\" node-type=\"yzm_change\" href=\"javascript:void(0);\">\u770b\u4e0d\u6e05\uff0c\u6362\u4e00\u5f20<\/a> \n <\/div>\n <div class=\"veri_state\"><div class=\"M_notice_del\" style=\"display:none;\" node-type=\"yzm_error\"><span class=\"icon_del\"><\/span><span class=\"txt\">\u9a8c\u8bc1\u7801\u9519\u8bef\uff0c\u8bf7\u91cd\u65b0\u8f93\u5165<\/span><\/div><\/div>\n <div class=\"code_btn\"><a class=\"W_btn_b\" href=\"javascript:void(0);\" node-type=\"yzm_submit\"><span>\u6211\u771f\u6ef4\u4e0d\u662f\u673a\u5668\u4eba<\/span><\/a><\/div>\n  <\/div>\n <\/div>\n<\/div>"})</script>
+<script>STK && STK.pageletM && STK.pageletM.view({"pid":"pl_common_base","js":["apps\/search\/js\/pl\/common\/changeLanguage.js?version=201305101650","apps\/search\/js\/pl\/common\/base.js?version=201305101650"],"css":[],"html":""})</script>
+</html>

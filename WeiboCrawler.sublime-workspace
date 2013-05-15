@@ -1,0 +1,365 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"file",
+				"filename"
+			],
+			[
+				"get",
+				"get_account"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"url",
+				"urllib"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "sinaMain.py",
+			"settings":
+			{
+				"buffer_size": 2083,
+				"line_ending": "Windows",
+				"name": "# -*- coding: utf-8 -*-"
+			}
+		},
+		{
+			"file": "/C/Users/Lofi/Documents/GitHub/weibo_saver/save_post.py",
+			"settings":
+			{
+				"buffer_size": 10522,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "config/account",
+			"settings":
+			{
+				"buffer_size": 30,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "weiboLogin.py",
+			"settings":
+			{
+				"buffer_size": 5211,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 288.0,
+		"selected_items":
+		[
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				":e",
+				":$ - EOF"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/0_StudyStuff/1_Code/1_Project/WeiboCrawler/SinaWeiboLogin",
+		"/D/0_StudyStuff/1_Code/1_Project/WeiboCrawler/SinaWeiboLogin.py",
+		"/D/0_StudyStuff/1_Code/1_Project/WeiboCrawler/config/accounts",
+		"/D/0_StudyStuff/1_Code/0_Research/xkMLToolkit/BoW/cpp/xkBoW.cpp",
+		"/D/0_StudyStuff/1_Code/0_Research/main.cpp",
+		"/D/0_StudyStuff/1_Code/0_Research/vlfeat-0.9.16/Makefile",
+		"/D/0_StudyStuff/1_Code/0_Research/xkMLToolkit/BoW/cpp/xkBoW.h",
+		"/D/0_StudyStuff/1_Code/0_Research/xkMLToolkit/BoW/cpp/vl/kmeans.h",
+		"/D/0_StudyStuff/1_Code/0_Research/xkMLToolkit/BoW/cpp/vl/kmeans.c",
+		"/D/0_StudyStuff/1_Code/1_Project/WeiboCrawler/test.cpp",
+		"/D/Program Files/Sublime/Data/Packages/User/python.sublime-build",
+		"/D/Program Files/Sublime/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/D/0_StudyStuff/1_Code/1_Project/WeiboCrawler/weiboCrawler.py",
+		"/D/Program Files/Sublime/Data/Packages/Default/Default (Windows).sublime-keymap",
+		"/D/Program Files/Sublime/Data/Packages/User/Preferences.sublime-settings",
+		"/D/Program Files/Sublime/Data/Packages/Default/Preferences.sublime-settings",
+		"/D/0_StudyStuff/1_Code/0_Research/xkMLToolkit/BoW/cpp/xkBow.cpp"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"weiboCnt",
+			"95",
+			"CC",
+			"gcc",
+			"g",
+			"vl_kmeans_new",
+			"KMeans",
+			"Kmeans",
+			"cmd"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "sinaMain.py",
+					"settings":
+					{
+						"buffer_size": 2083,
+						"regions":
+						{
+							"bookmark_a":
+							{
+								"flags": 144,
+								"regions":
+								[
+									[
+										2083,
+										2083
+									]
+								]
+							},
+							"bookmark_i":
+							{
+								"flags": 144,
+								"regions":
+								[
+									[
+										2083,
+										2083
+									]
+								]
+							}
+						},
+						"selection":
+						[
+							[
+								1364,
+								1364
+							]
+						],
+						"settings":
+						{
+							"auto_name": "# -*- coding: utf-8 -*-",
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 345.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/Lofi/Documents/GitHub/weibo_saver/save_post.py",
+					"settings":
+					{
+						"buffer_size": 10522,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								10130,
+								10130
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4275.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "config/account",
+					"settings":
+					{
+						"buffer_size": 30,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								30,
+								30
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 3,
+					"file": "weiboLogin.py",
+					"settings":
+					{
+						"buffer_size": 5211,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3265,
+								3265
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1500.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 71.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 158.0,
+	"status_bar_visible": true
+}
