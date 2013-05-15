@@ -164,5 +164,7 @@ pip-log.txt
 
 #mine
 config
+pages
 *.txt
 WeiboCrawler.sublime*
+.gitignore
