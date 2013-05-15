@@ -79,9 +79,33 @@ class weiboLogin:
                 pwd = line.strip()
         f.close()
         return username,pwd
-    def login(self,filename):
-        username,pwd = self.get_account(filename)
+    def login(self,username,passwd,cookieFile):
+        if os.path.exists(cookieFile):
+            try:
+                cookie_jar  = cookielib.LWPCookieJar(cookieFile)
+                cookie_load = cookie_jar.load(ignore_discard=True, ignore_expires=True)
+                loaded = 1
+            except cookielib.LoadError:
+                loaded = 0
+                print 'Loading cookies error'
 
+            if loaded:
+                cookie_support = urllib2.HTTPCookieProcessor(cookie_jar)
+                opener         = urllib2.build_opener(cookie_support, urllib2.HTTPHandler)
+                urllib2.install_opener(opener)
+                print 'Loading cookies success'
+                return 1
+            else:
+                return do_login(username,passwd,cookieFile)
+        else:
+            return do_login(username,passwd,cookieFile)
+
+    def do_login(username,pwd,cookieFile):
+
+        cookie_jar2     = cookielib.LWPCookieJar()
+        cookie_support2 = urllib2.HTTPCookieProcessor(cookie_jar2)
+        opener2         = urllib2.build_opener(cookie_support2, urllib2.HTTPHandler)
+        urllib2.install_opener(opener2)
         url = 'http://login.sina.com.cn/sso/login.php?client=ssologin.js(v1.4.4)'
         try:
             servertime, nonce, pubkey, rsakv = self.get_servertime(username)
@@ -112,6 +136,7 @@ class weiboLogin:
             login_url = p.search(text).group(1)
             print login_url
             urllib2.urlopen(login_url)
+            cookie_jar2.save(cookie_file,ignore_discard=True, ignore_expires=True)
             print "Login success!"
             return 1
         except:
